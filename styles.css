@@ -1,2 +1,14 @@
+/* Container Styles */
+.main {
+    width: 200px; /* Width of the container */
+    background-color: purple; /* Background color */
+    border-left: 5px solid green; /* Left side border */
+    padding: 10px; /* Padding on all sides */
+}
 
-/* Your CSS Code here. */
+
+.heading {
+    font-size: 20px; 
+    color: white; /* Text color */
+    text-decoration: underline; /* Text decoration (underline) */
+}
